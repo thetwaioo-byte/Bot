@@ -40,7 +40,7 @@ logger = logging.getLogger(__name__)
 #  🔥 CONFIGURATION — Admin & Forward = Myogyi10384
 #  ⚠️ REVOKE THIS TOKEN IMMEDIATELY AND REPLACE!
 # ======================================================
-BOT_TOKEN = "9270543827:AAHuqeAK_Q7j_2daPHwcYm2Nty8yR7WEpbQ"   # <--- REVOKE THIS!
+BOT_TOKEN = "9073192699:AAHbzffrE3XzDCOdGrgBNdYJImM4PklP5VA"   # <--- REVOKE THIS!
 ADMIN_IDS = [ "6130147402"]
 ADMIN_NAME = "Myogyi10384"
 FORWARD_CHANNEL = "@Zawgyi1296"
